@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,c,cpp,css,spring,java,kotlin,python,gradle,maven,html5,mysql,android" />
+  <img src="https://skillicons.dev/icons?i=git,c,cpp,css,spring,java,kotlin,python,gradle,maven,html,mysql" />
 </div>
 
 ###
