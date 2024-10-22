@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <img src="https://skillicons.dev/icons?i=git,c,cpp,css,spring,java,kotlin,python,gradle,maven" />
 </div>
 
 ###
